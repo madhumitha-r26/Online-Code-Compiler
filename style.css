@@ -58,7 +58,7 @@ background-color: red;
 color: azure;
 }
 
-@media (max-width:801px)
+@media (max-width:1024px)
 {
     body
     {
